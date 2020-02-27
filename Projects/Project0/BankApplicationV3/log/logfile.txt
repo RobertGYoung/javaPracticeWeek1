@@ -1,0 +1,39 @@
+2020-02-26 01:34:35,064 TRACE c.r.Main [main] Application Started
+2020-02-26 01:35:01,834 TRACE c.r.Main [main] Userbobhas attempted to log in
+2020-02-26 01:35:03,955 TRACE c.r.Main [main] Userbob exited thier profile
+2020-02-26 01:35:05,844 TRACE c.r.Main [main] Application Terminated
+2020-02-26 01:37:29,962 TRACE c.r.Main [main] Application Started
+2020-02-26 01:37:42,461 TRACE c.r.Main [main] User testAccount has logged in
+2020-02-26 01:37:54,572 TRACE c.r.Main [main] UsertestAccount possibly made a deposit
+2020-02-26 01:37:59,075 TRACE c.r.Main [main] UsertestAccount exited thier profile
+2020-02-26 01:38:01,741 TRACE c.r.Main [main] Application Terminated
+2020-02-26 01:49:28,903 TRACE c.r.Main [main] Application Started
+2020-02-26 01:49:31,954 TRACE c.r.Main [main] Someone attempting to log into admin
+2020-02-26 01:49:33,957 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:49:37,026 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:50:18,510 TRACE c.r.Main [main] Application Started
+2020-02-26 01:50:21,557 TRACE c.r.Main [main] Someone attempting to log into admin
+2020-02-26 01:50:23,020 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:50:39,091 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:54:31,385 TRACE c.r.Main [main] Application Started
+2020-02-26 01:54:35,776 TRACE c.r.Main [main] Someone attempting to log into admin
+2020-02-26 01:54:38,109 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:55:20,220 TRACE c.r.Main [main] Application Started
+2020-02-26 01:55:21,348 TRACE c.r.Main [main] Someone attempting to log into admin
+2020-02-26 01:55:22,857 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:56:49,273 TRACE c.r.Main [main] Application Started
+2020-02-26 01:56:52,110 TRACE c.r.Main [main] Someone attempting to log into admin
+2020-02-26 01:56:54,075 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:57:21,892 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:58:21,243 TRACE c.r.Main [main] Application Started
+2020-02-26 01:58:26,115 TRACE c.r.Main [main] Someone attempting to log into admin
+2020-02-26 01:58:27,865 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 01:58:29,177 TRACE c.r.Main [main] YOUR READING THE LOG BUT YOU PROBABLY ALREADY KNOW THAT
+2020-02-26 01:58:41,998 TRACE c.r.Main [main] Admin successfully logged in
+2020-02-26 10:23:16,360 TRACE c.r.Main [main] Application Started
+2020-02-26 10:26:36,532 TRACE c.r.Main [main] User bob has logged in
+2020-02-26 10:27:14,642 TRACE c.r.Main [main] User bob possibly made a deposit
+2020-02-26 10:28:14,761 TRACE c.r.Main [main] User bob possibly sent funds to another account
+2020-02-26 10:28:37,780 TRACE c.r.Main [main] User bob checked thier balance
+2020-02-26 10:28:43,544 TRACE c.r.Main [main] User bob exited thier profile
+2020-02-26 10:28:45,747 TRACE c.r.Main [main] Someone attempting to log into admin

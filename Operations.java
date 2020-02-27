@@ -1,3 +1,4 @@
+package com.revature.day01;
 public class Operations{
 	public static void main(String[] args){
 		String opName=args[0];

@@ -1,3 +1,5 @@
+package com.revature.day01;
+
 public class addAll{
 	public static void main(String[] args){
 int[] tempArray = new int[args.length];

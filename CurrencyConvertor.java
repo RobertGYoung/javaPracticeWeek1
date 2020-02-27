@@ -3,6 +3,7 @@ package com.revature.day01;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
+
 //Math.floor(num*100.0)/100; 
 public class CurrencyConvertor{
 	public static void main(String[] args){

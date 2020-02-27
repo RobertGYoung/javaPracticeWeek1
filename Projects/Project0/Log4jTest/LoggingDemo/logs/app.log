@@ -1,0 +1,6 @@
+2020-02-13 16:50:03,075 TRACE c.r.d.l.MyApp [main] Entering application.
+2020-02-13 16:50:03,082 TRACE c.r.d.l.Bar [main] Enter
+2020-02-13 16:50:03,083 ERROR c.r.d.l.Bar [main] Did it again!
+2020-02-13 16:50:03,083 TRACE c.r.d.l.Bar [main] Exit with(false)
+2020-02-13 16:50:03,083 ERROR c.r.d.l.MyApp [main] Didn't do it.
+2020-02-13 16:50:03,083 TRACE c.r.d.l.MyApp [main] Exiting application.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="trace">
+  <!--<Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{} - %m
+      %n"/>
+    </Console>-->
+  <!--    <Appenders>
+    <File name="MyFile" fileName="C:\\Users\\Rahb\\Desktop\logfile.txt" createOnDemand="true">
+      <PatternLayout>
+        <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+      </PatternLayout>
+    </File>-->
+
+<Appenders> 
+    <RollingFile name="RollingFile" fileName="C:/Users/Rahb/Desktop/Rolling.log"
+                 filePattern="C:/Users/Rahb/Desktop/log/$${date:yyyy-MM}/app-%d{MM-dd-yyyy}-%i.log">
+      <PatternLayout>
+        <Pattern>%d %p %c{1.} [%t] %m%n</Pattern>
+      </PatternLayout>
+      <Policies>
+      <!--   <TimeBasedTriggeringPolicy /> -->
+        <SizeBasedTriggeringPolicy size="1 KB"/>
+      </Policies>
+    </RollingFile>
+  </Appenders>
+ 
+  <Loggers>
+    <Root level="trace">
+      <AppenderRef ref="RollingFile"/>
+    </Root>
+  </Loggers>
+</Configuration>
